@@ -6,17 +6,10 @@ I'm passionate about building cool web projects, solving problems using Java, an
 
 ---
 
-### 🚀 Projects I'm Proud Of
-
-- 🔥 [Rock-Paper-Scissors Game](https://tusharattri7.github.io/rock-paper-scissors-game/) — Fun game with sound effects
-- 🧠 More coming soon...
-
----
-
 ### 💡 What I'm Learning
 - JavaScript DOM & Events
 - Full-Stack Roadmap (Frontend + Backend)
-- Java OOP, Threads, File Handling
+- MERN Stack
 
 ---
 
